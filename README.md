@@ -1,6 +1,6 @@
 ## Welcome to my Page
 
-Hello, I'm Sudarshan Gautam. This page is intended to publish a map showing Rivers of Nepal
+Hello, I'm Sudarshan Gautam. This page is intended to publish a map showing Rivers of Nepal.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
